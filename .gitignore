@@ -69,3 +69,6 @@ env/
 
 # Windows
 Thumbs.db
+
+# SQLAlchemy DB instances
+instance
